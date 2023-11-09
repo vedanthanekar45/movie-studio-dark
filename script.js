@@ -1,0 +1,1 @@
+document.querySelector(".quote-text").style.color = cyan;
